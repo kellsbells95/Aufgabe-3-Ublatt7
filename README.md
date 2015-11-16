@@ -12,6 +12,7 @@ Als ersters braucht man:
 |Rosenkohl| green   | 22min  |
 |Garlic   |  white  |max.7min|
 
+**Rosenkohl ist gesund!**
 
 
 
