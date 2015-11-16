@@ -1,11 +1,13 @@
-# Rezept f\"ur Rosenkohl!
+# Rezept für Rosenkohl!
 
 Als ersters braucht man:
 - 15-20 Rosenkohl die man halbiert
 - Knoblauch
-- Oliven \"Ol
+- Oliven Öl
 - Butter
 - Rosmarin
+
+
 
 
 
