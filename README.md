@@ -7,7 +7,7 @@ Als ersters braucht man:
 - Butter
 - Rosmarin
 
-  Food      Color    Time
+| Food    |  Color  |  Time  |
 |:--------|:-------:|-------:|
 |Rosenkohl| green   | 22min  |
 |Garlic   |  white  |max.7min|
